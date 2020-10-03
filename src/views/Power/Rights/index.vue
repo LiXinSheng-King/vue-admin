@@ -26,6 +26,7 @@
 <script>
 import { onGetRightsList } from '@/api/power'
 export default {
+  name: 'RightsIndex',
   data () {
     return {
       // 权限列表

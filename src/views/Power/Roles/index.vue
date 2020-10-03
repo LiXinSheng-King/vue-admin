@@ -167,6 +167,7 @@ import {
   onRemoveRightById, onShowSetRightDialog, onAllotRights
 } from '@/api/power'
 export default {
+  name: 'RolesIndex',
   data () {
     return {
       // 所有角色列表

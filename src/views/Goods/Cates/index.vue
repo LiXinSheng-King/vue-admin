@@ -128,7 +128,7 @@
 import {
   onGetCateList, onGetParentCateList, onAddCate,
   onShowEditCateDialog, onEidtCate, onRemoveCate
-} from '@/api/goods'
+} from '@/api/sort'
 export default {
   name: 'CatesIndex',
   data () {

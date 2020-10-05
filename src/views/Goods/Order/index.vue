@@ -34,7 +34,7 @@
           </template>
         </el-table-column>
         <el-table-column label="操作">
-          <template slot>
+          <template>
             <el-button type="primary" size="mini" icon="el-icon-edit" @click="showEditDialog"></el-button>
             <el-button
               type="success"
